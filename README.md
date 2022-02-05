@@ -5,9 +5,8 @@
 <img src="https://img.shields.io/badge/Android-8.0-orange.svg">
 <img src="https://img.shields.io/badge/API-level 26-orange.svg">
 </p>
+
 *(Được fork từ project chính)*
-
-
 ### Mô tả sơ lược:
 Đồ án cuối kỳ môn Phát triển phần mềm cho thiết bị di động - 19_3 (HCMUS). Ứng dụng giúp quản lý album ảnh với các tính năng chính như:
 - Xem ảnh và video nằm ở nhiều folder khác nhau trên bộ nhớ - điện thoại.
